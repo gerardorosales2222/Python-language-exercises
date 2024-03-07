@@ -1,5 +1,5 @@
 
-# Python language exercises
+# 🐍 Python language exercises
 
 A continuación algunos ejercicios de nivel básico desarrollados en lenguaje Python
 
